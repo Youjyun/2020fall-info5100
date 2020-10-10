@@ -6,9 +6,9 @@ public class TestCylinder {
 	public static void main(String[] args) {
 		
 		 Circle c1 =new Circle(2.0, "yellow");
-		 System.out.println("Radius is " + c1.getRadius()
-            + ", Color is " + c1.getColor()
-            + ", Base area is " + c1.getArea());
+		  System.out.println("Radius is " + c1.getRadius()
+             + ", Color is " + c1.getColor()
+             + ", Base area is " + c1.getArea());
 		  //Radius is 2.0, Color is yellow, 
 		  //Base area is 12.566370614359172
 		
